@@ -6,7 +6,7 @@
 
 ## 🎯 Overview
 
-**Kaggle Challenge**: [Audio Speech Emotion Recognition](https://www.kaggle.com/competitions)    
+**Kaggle Challenge**: [Audio Speech Emotion Recognition]((https://www.kaggle.com/competitions/audio-speech-emotion-recognition/)    
 **Public Score**: **0.75498** (F1-Weighted)  
 **Improvement**: +5.32% over baseline (0.71178)  
 **Dataset**: 1,152 training samples, 288 test samples, 8 emotion classes
